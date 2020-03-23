@@ -50,7 +50,6 @@ class Song
       end
     end
     artist_count
-   # @@artists.inject(Hash.new(0)) { |key, value| key[value] += 1}
   end
   
 end
